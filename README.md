@@ -3,14 +3,14 @@
 **`Full-stack Software Developer / Web Designer`**
 
 
-Creative, detail-oriented, software developer with a proven track record of creating full-stack web applications using the MERN stack. I am looking to bring my skills and experience to a tech company with global reach.
+Creative, detail-oriented, web developer with a deep passion for web design. Proven track record of creating front end web applications using HTML5 and CSS3. I am looking to use my skills and experience in tech company with global reach.
 
-- 🚢 Full-stack software developer at [Miami Web Creators](-)
-- 🏅 Here is a link to my [Portfolio](-)
-- 🌱 I’m currently diving deep into Ai technology
-- 🏋 I’m looking to join a extraordinary engineering team
+-  Front-end web developer at [Miami Web Creators](-)
+-  Here is a link to my [Portfolio](-)
+-  I’m currently diving deep into Ai technology
+-  I’m looking to join a extraordinary engineering team
 
-### 🧰 Languages and Tools
+###  Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -22,7 +22,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
 
 ---
 
-### 🏆 Latest Projects
+###  Latest Projects
 
 <!-- LATEST-PROJECT-LIST:START -->
 - [JC Services AC&H]([https://ba-ai.netlify.app/](https://jcservices.netlify.app/)) - Air Conditioning ad Heating company website.
@@ -31,7 +31,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
 
 ---
 
-### 🏅 Giving Back
+###  Giving Back
 
 <!-- LATEST-PROJECT-LIST:START -->
 
@@ -45,7 +45,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
 <!--START_SECTION:activity-->
 
 
-1. 💻 Experienced software developer with a focus on:
+1.  Experienced software developer with a focus on:
   
    - JavaScript
    - Tailwind
@@ -56,7 +56,7 @@ Creative, detail-oriented, software developer with a proven track record of crea
    - Develop Wordpress websites for clients. 
   
 
-3. 🚀 Web design experience:
+3.  Web design experience:
    
    - WordPress
    - Wix
