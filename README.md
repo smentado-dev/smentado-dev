@@ -1,6 +1,6 @@
 # Hi, I'm Sofia Mentado!
 
-**`Full-stack Software Developer / Web Designer`**
+**`Front-end Web Developer / Web Designer`**
 
 
 Creative, detail-oriented, web developer with a deep passion for web design. Proven track record of creating front end web applications using HTML5 and CSS3. I am looking to use my skills and experience in tech company with global reach.
